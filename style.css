@@ -285,9 +285,15 @@ table {
 
 th {
   font-size: 10px;
-  padding-right: 90px;
+  padding-right: 10px;
   padding-bottom: 15px;
   color: grey;
+}
+
+.arrow {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
 }
 
 .trimage {
